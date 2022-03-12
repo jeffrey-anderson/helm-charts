@@ -3,12 +3,13 @@ entries:
   swe-db:
   - apiVersion: v2
     appVersion: "14.2"
-    created: "2022-03-11T20:26:03.609942111-05:00"
+    created: "2022-03-12T09:42:38.287111168-05:00"
     description: A Helm chart for the Spring Web Essentials database
-    digest: 4e4d815c3c14adfd4c3cbd9eb844908697826922858dcac148f79f1d10f8714d
+    digest: ef106f3a7ff8fecf15ea356f74dc8c48d4e63daf9572315a2e64f645ed3d6bff
+    icon: https://spankinfresh.com/images/sf-logo-50h.png
     name: swe-db
     type: application
     urls:
     - swe-db-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-11T20:26:03.609431272-05:00"
+generated: "2022-03-12T09:42:38.286595084-05:00"
