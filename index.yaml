@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  swe-db:
+  - apiVersion: v2
+    appVersion: "14.2"
+    created: "2022-03-11T20:26:03.609942111-05:00"
+    description: A Helm chart for the Spring Web Essentials database
+    digest: 4e4d815c3c14adfd4c3cbd9eb844908697826922858dcac148f79f1d10f8714d
+    name: swe-db
+    type: application
+    urls:
+    - swe-db-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-11T20:26:03.609431272-05:00"
